@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'font1';
+    src: url('../components/fonts/AnteriSignature_PERSONAL_USE_ONLY.otf');
+}
+
+@font-face {
+    font-family: 'font2';
+    src: url('../components/fonts/Coffee\ Home.ttf');
+}
+
+@font-face {
+    font-family: 'font3';
+    src: url('../components/fonts/Solerin\ Magica.otf');
+}
+
+@font-face {
+    font-family: 'font4';
+    src: url('../components/fonts/Sweety\ Beach.otf');
+}
+
+@font-face {
+    font-family: 'font5';
+    src: url('../components/fonts/LemyButterDemo-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'font6';
+    src: url('../components/fonts/TheStudentsTeacher-Regular.ttf');
+}
